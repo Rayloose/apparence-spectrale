@@ -1,4 +1,4 @@
-# apparence_spectrale
+# Apparence Spectrale
 This repository is meant to gather all the files that we could use for the project.
 
 ### Day 1
