@@ -67,7 +67,7 @@ import csv
 
 for i in range(1,26):
     print(i)
-    filename = 'fiber_fluo_' + str(i) + '.csv'
+    filename = 'fiber_led_2700k_' + str(i) + '.csv'
     print(filename)
     with open(filename, mode='w', newline="") as file:
         writer = csv.writer(file, delimiter = ",")
