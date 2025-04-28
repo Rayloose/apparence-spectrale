@@ -1,0 +1,12 @@
+Tcp [K],8608
+Illuminance [lx],210
+Peak Wavelength [nm],459
+Tristimulus Value X,213.9136
+Tristimulus Value Y,210.4113
+Tristimulus Value Z,303.7894
+CIE1931 x,0.2938
+CIE1931 y,0.2890
+CIE1931 z,0.4172
+CIE1976 u',0.1999
+CIE1976 v',0.4423
+Dominant Wavelength [nm],475

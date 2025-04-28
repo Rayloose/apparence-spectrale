@@ -1,0 +1,10 @@
+Les mesures ont été prises sous forme de balayage serpentant autour des surfaces colorées. Chaque indice de surface est indiqué sur la figure fournie pour faciliter l’identification.
+
+Le fichier (output) contient, pour chaque mesure, 6 fichiers CSV :
+
+1. Données Colorimétriques : Ce fichier contient les valeurs colorimétriques calculées pour chaque mesure.
+2. Spectrale Pas 1 nm : Ce fichier fournit les données spectrales avec un pas de 1 nm.
+3. Spectrale Pas 5 nm : Ce fichier contient les données spectrales avec un pas de 5 nm.
+4. Valeurs CRI : Ce fichier regroupe les valeurs de l’indice de rendu des couleurs (CRI) pour chaque mesure.
+5. Albedo Pas 1 nm : Valeurs d'albédo pour chaque longueur d'onde avec un pas de 1 nm.  
+6. Albedo Pas 5 nm : Valeurs d'albédo pour chaque longueur d'onde avec un pas de 5 nm.

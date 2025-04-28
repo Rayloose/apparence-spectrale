@@ -1,0 +1,17 @@
+order :
+1 white
+2 black
+3 blue
+4 green
+5 red
+6 yellow
+7 magenta
+8 cyan
+
+konica for color
+exposure time : 1s
+Scale : 20 mW/m2/nm
+
+konica for source
+exposure time 0.1s
+Scale 100 mW/m2/nm
